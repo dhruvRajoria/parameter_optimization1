@@ -49,7 +49,7 @@ The results are summarized in a structured format, showing performance metrics f
 
 ## 📎 How to Run
 ```bash
-jupyter notebook 102217119_Assignment_ParameterOptimization.ipynb
+jupyter notebook 102217050_parameter_optimization.py
 ```
 Ensure all dependencies are installed and the dataset is properly loaded within the notebook.
 
